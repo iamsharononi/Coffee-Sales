@@ -62,8 +62,8 @@ Dashboards were created to visualize:
 
 ## 6. Post-Analysis & Key Insights
 - Focusing marketing efforts on the East and West regions could maximize returns.
-- Introducing bundle offers for Espresso and Cappuccino may help increase average transaction value.
-- The South region needs a different strategy, possibly centered around pricing adjustments or product education campaigns.
+- Introduce bundle offers for Espresso and Cappuccino to help increase average transaction value.
+- Tailor pricing and promotional strategies in the South region to stimulate demand.
 
 ## 7. Data Visualizations
 The following visualizations were created using Excel:
@@ -75,3 +75,5 @@ The following visualizations were created using Excel:
 ---
 
 ## 📷 Dashboard Preview
+
+![Dashboard](https://raw.githubusercontent.com/iamsharononi/Coffee-Sales/refs/heads/main/Coffee%20Sales%20Dashboard.jpg)
