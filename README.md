@@ -51,7 +51,7 @@ Initial exploration of the data revealed:
 ## 5. In-Analysis
 Using pivot tables and charts in Excel, key insights include:
 
-. # Regional Performance: The East region recorded the highest sales volumes, while the South region lagged behind.
+- **Regional Performance.** The East region recorded the highest sales volumes, while the South region lagged behind.
 . # Product Performance: Espresso led in total quantity sold but Latte generated higher total revenue due to a higher price point.
 . # Revenue Drivers: Total sales are driven more by quantity in certain regions, while in others, premium pricing strategies play a bigger role.
 
