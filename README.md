@@ -52,8 +52,8 @@ Initial exploration of the data revealed:
 Using pivot tables and charts in Excel, key insights include:
 
 - **Regional Performance.** The East region recorded the highest sales volumes, while the South region lagged behind.
-. # Product Performance: Espresso led in total quantity sold but Latte generated higher total revenue due to a higher price point.
-. # Revenue Drivers: Total sales are driven more by quantity in certain regions, while in others, premium pricing strategies play a bigger role.
+- **Product Performance.** Espresso led in total quantity sold but Latte generated higher total revenue due to a higher price point.
+- **Revenue Drivers.** Total sales are driven more by quantity in certain regions, while in others, premium pricing strategies play a bigger role.
 
 Dashboards were created to visualize:
 . Sales by product category.
@@ -68,9 +68,9 @@ Dashboards were created to visualize:
 ## 7. Data Visualizations
 The following visualizations were created using Excel:
 
-. Bar chart of sales by product category.
-. Pie chart of total sales distribution by region.
-. Combo chart comparing quantity sold and total sales across products.
+- Bar chart of sales by product category.
+- Pie chart of total sales distribution by region.
+- Combo chart comparing quantity sold and total sales across products.
 
 ---
 
