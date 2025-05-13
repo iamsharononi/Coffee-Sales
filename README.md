@@ -28,13 +28,21 @@ Using Excel-powered dashboards, charts, and trend analysis, we uncover what infl
 ---
 
 ## 1. Introduction
-_Explain the context and purpose of your analysis project._
+_This project focuses on analyzing coffee sales data to uncover insights into product performance, regional sales patterns, and overall revenue drivers. The goal is to provide actionable insights for decision-makers in the coffee retail sector by leveraging data analysis techniques._
 
 ## 2. Story of Data
-_Describe where the data came from, the scope, and key characteristics._
+_The data contains sales transactions for various coffee products such as Espresso, Latte, Cappuccino, and others. It captures the following key metrics: product category, region, sales quantity, unit price, and total sales value. The scope of the dataset spans multiple regions, offering a broad perspective on how different products perform across different markets._
 
 ## 3. Data Preprocessing & Splitting
-_Explain how you cleaned, formatted, and prepared the data for analysis._
+_The dataset required some basic preprocessing steps:
+
+Removed any empty rows and columns.
+
+Ensured consistent formatting of product names and region names.
+
+Calculated total sales where necessary using the formula Total Sales = Quantity Sold x Unit Price.
+
+Verified data integrity by cross-checking quantities and prices._
 
 ## 4. Pre-Analysis Observations
 _Describe initial patterns, descriptive stats, or hypotheses._
